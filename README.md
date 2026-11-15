@@ -28,8 +28,12 @@
 ### 📊 فعالیت من در GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammadreza-atlas&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-atlas&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadreza-atlas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-atlas&layout=compact&theme=github_dark&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadreza-atlas&theme=github-compact&hide_border=true" width="100%" />
 </p>
 
 ### یه چیزی که بهش اعتقاد دارم
