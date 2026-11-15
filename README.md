@@ -1,10 +1,18 @@
-# سلام! من محمدرضام 👋
+<p align="center">
+  <img src="https://wallpaperbat.com/img/108782758-cozy-room-wallpapers-ko.gif" width="100%" alt="Cozy Room Banner">
+</p>
 
-### Python Developer | Learning Go
+<h2 align="center">سلام! من محمدرضام 👋</h2>
+
+<p align="center">
+  <b>Python Developer | Learning Go</b>
+</p>
 
 برنامه‌نویسی رو دوست دارم چون همیشه چیزی برای یاد گرفتن و امتحان کردن وجود داره.
 
 بیشتر با Python کار می‌کنم و این روزها دارم Go یاد می‌گیرم. به هوش مصنوعی، بازارهای مالی و مخصوصاً دنیای IoT هم علاقه دارم.
+
+---
 
 ### چیزهایی که دوست دارم
 
@@ -15,9 +23,11 @@
 
 ### ابزارهایی که استفاده می‌کنم
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,git,github,vscode&theme=dark" />
 </p>
+
+---
 
 ### 🧭 چیزی که دارم می‌سازم
 
@@ -25,25 +35,33 @@
 
 یک پروژه برای کمک به برنامه‌نویس‌ها تا هدف‌هاشون رو دنبال کنن، کارهاشون رو ثبت کنن و در مسیر یادگیری استمرار داشته باشن.
 
+---
+
 ### 📊 فعالیت من در GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadreza-atlas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-atlas&layout=donut&theme=github_dark&hide_border=true" height="170" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammadreza-atlas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-atlas&layout=donut&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadreza-atlas&theme=github-compact&hide_border=true" width="100%" />
 </p>
 
-### یه چیزی که بهش اعتقاد دارم
-
-«همیشه راهی برای پیشرفت وجود داره، فقط باید دیدگاه متفاوتی داشت. تلاش و پشتکار کل مسیر رو می‌سازن.»
-
 ---
+
+### 💭 یه چیزی که بهش اعتقاد دارم
+
+> همیشه راهی برای پیشرفت وجود داره؛ فقط باید دیدگاه متفاوتی داشت.
+>
+> تلاش و پشتکار، کل مسیر رو می‌سازن.
 
 <p align="center">
   <a href="https://github.com/mohammadreza-atlas">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  ساخته‌شده با علاقه، کنجکاوی و کلی ایده 🚀
 </p>
