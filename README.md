@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadreza-atlas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-atlas&layout=compact&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-atlas&layout=donut&theme=github_dark&hide_border=true" height="170" />
 </p>
 
 <p align="center">
