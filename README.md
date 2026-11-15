@@ -1,62 +1,45 @@
-# سلام، من محمدرضا هستم 👋
+# سلام! من محمدرضام 👋
 
-### 🐍 توسعه‌دهنده پایتون | در مسیر یادگیری Go
+### Python Developer | Learning Go
 
-علاقه‌مند به دنیای فناوری، ساختن ایده‌های جدید و تبدیل چالش‌ها به فرصت.
+برنامه‌نویسی رو دوست دارم چون همیشه چیزی برای یاد گرفتن و امتحان کردن وجود داره.
 
-🤖 هوش مصنوعی | 📈 بازارهای مالی | 🌐 اینترنت اشیا
+بیشتر با Python کار می‌کنم و این روزها دارم Go یاد می‌گیرم. به هوش مصنوعی، بازارهای مالی و مخصوصاً دنیای IoT هم علاقه دارم.
 
----
+### چیزهایی که دوست دارم
 
-### 🚀 درباره من
+- 🐍 برنامه‌نویسی با Python و یادگیری Go
+- 🤖 هوش مصنوعی و ساخت ابزارهای هوشمند
+- 📈 بازارهای مالی و سیستم‌های معاملاتی
+- 🔌 اینترنت اشیا (IoT)
 
-- 🐍 توسعه با Python و یادگیری Go
-- 🤖 علاقه‌مند به هوش مصنوعی و فناوری‌های نوین
-- 📊 کنجکاو در زمینه بازارهای مالی و سیستم‌های معاملاتی
-- 🌐 عاشق دنیای IoT و ارتباط نرم‌افزار با سخت‌افزار
-- 🛠️ علاقه‌مند به طراحی و توسعه پروژه‌های کاربردی
+### ابزارهایی که استفاده می‌کنم
 
-### 🧰 ابزارها و فناوری‌ها
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,go,git,github,vscode&theme=dark" />
 </p>
 
----
+### 🧭 چیزی که دارم می‌سازم
 
-### 🔭 پروژه در حال توسعه
+**Atlas | سازندگان آینده**
 
-**🧭 Atlas | سازندگان آینده**
-
-تلاشی برای ساخت فضایی که به برنامه‌نویسان کمک می‌کند هدف‌گذاری کنند، پیشرفت خود را ثبت کنند و استمرار بیشتری در مسیر یادگیری داشته باشند.
-
----
+یک پروژه برای کمک به برنامه‌نویس‌ها تا هدف‌هاشون رو دنبال کنن، کارهاشون رو ثبت کنن و در مسیر یادگیری استمرار داشته باشن.
 
 ### 📊 فعالیت من در GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammadreza-atlas&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&locale=fa" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-atlas&layout=compact&theme=github_dark&hide_border=true&locale=fa" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammadreza-atlas&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-atlas&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohammadreza-atlas&theme=github-dark-blue&hide_border=true&locale=fa" />
-</p>
+### یه چیزی که بهش اعتقاد دارم
+
+«همیشه راهی برای پیشرفت وجود داره، فقط باید دیدگاه متفاوتی داشت. تلاش و پشتکار کل مسیر رو می‌سازن.»
 
 ---
 
-### 💭 باور من
-
-> همیشه راهی برای پیشرفت وجود داره؛ فقط باید دیدگاه متفاوتی داشت.
->
-> تلاش و پشتکار، کل مسیر رو می‌سازن.
-
 <p align="center">
   <a href="https://github.com/mohammadreza-atlas">
-    <img src="https://img.shields.io/badge/GitHub-مشاهده_پروفایل-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <b>همیشه در حال یادگیری، ساختن و پیشرفت 🚀</b>
 </p>
